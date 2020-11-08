@@ -5,6 +5,7 @@
   * Context Menu
   * Spinners
   * DatePicker & Time Picker
+  * SnackBars
   * Explicit Intents
 
 #### Download
